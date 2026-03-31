@@ -1,0 +1,20 @@
+2026-04-01 09:00:01 INFO System started
+2026-04-01 09:05:23 ERROR Database connection failed
+2026-04-01 09:10:45 WARNING High memory usage
+2026-04-01 09:15:12 ERROR Timeout while calling API
+2026-04-01 09:20:30 INFO User login successful
+2026-04-01 10:00:01 ERROR Database connection failed
+2026-04-01 10:05:10 ERROR Database connection failed
+2026-04-01 10:10:22 ERROR Timeout while calling API
+2026-04-01 10:15:35 WARNING Disk space low
+2026-04-01 10:20:50 INFO Scheduled job executed
+2026-04-01 11:00:01 ERROR Timeout while calling API
+2026-04-01 11:05:33 ERROR Timeout while calling API
+2026-04-01 11:10:44 ERROR Database connection failed
+2026-04-01 11:15:55 WARNING CPU usage high
+2026-04-01 11:20:10 INFO System health check passed
+2026-04-01 12:00:01 ERROR Database connection failed
+2026-04-01 12:05:22 ERROR Database connection failed
+2026-04-01 12:10:33 ERROR Database connection failed
+2026-04-01 12:15:44 ERROR Timeout while calling API
+2026-04-01 12:20:55 INFO Backup completed
